@@ -1,0 +1,33 @@
+* {
+    font-family: "Cabin", "Source Code Pro", sans-serif ;
+    background-color: #202020;
+    color: white;
+    width: 900px;
+    margin: auto;
+    line-height: 25px;
+    margin-top: 1%;
+}
+h1 {
+    text-align: center;
+}
+div img {
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#borscht img {
+    width: 500px;
+    height: 500px;
+}
+#lasagna img {
+    width: 500px;
+    height: 375px;
+}
+#pizza img {
+    width: 480px;
+    height: 360px;
+}
+div p {
+    text-indent: 5%;
+}
